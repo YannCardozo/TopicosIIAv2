@@ -1,3 +1,6 @@
+# TRABALHO RAPHAEL VIANNA E YANN CARDOZO AV2 THIAGO TOPICOS ESPECIAIS II
+
+
 # KC1 Defect Prediction Project
 
 This repository contains the full workflow for analysing the KC1_classlevel_numdefect dataset, building a regression model to predict software defects, exposing it via a REST API, and wrapping everything in an interactive Shiny application.
